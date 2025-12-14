@@ -1,0 +1,9 @@
+torch>=1.13.0
+transformers>=4.25.0
+pillow>=9.0.0
+numpy>=1.21.0
+pandas
+seaborn
+matplotlib
+scikit-learn
+
